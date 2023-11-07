@@ -9,7 +9,7 @@ This project involves developing a Java-based car trading system, drawing inspir
 
 *No Documentation*
  
- 
+ ---
  
 ### [Films4You Database Analyser](Films4You-Database-Analyser)
 
@@ -21,7 +21,7 @@ Scenario:
 
 **[Documentation](Films4You-Database-Analyser/report.pdf)**
  
- 
+ ---
  
 ### [Fundamentals](Fundamentals)
 
@@ -29,7 +29,7 @@ A cluster of tasks to learn Java.
 
 *No Documentation*
  
- 
+ ---
  
 ### [OS Memory Management](OS-Memory-Management)
 
@@ -37,7 +37,7 @@ This project involves making a simulation of a non-contiguous segmented memory m
 
 **[Documentation](OS-Memory-Management/report.pdf)**
  
- 
+ ---
  
 ### [Raspi Morse Code](Raspi-Morse-Code)
 
